@@ -2,8 +2,8 @@
  Watson Streaming Speech to Text Example
 =========================================
 
-The following is an example of using Watson to real time transcribe
-from Speech to Text using the websockets streaming API.
+This a Natural Language Processor that I built using the IBM Watson to transcribe
+Speech to Text in real time using the websockets streaming API.
 
 Installation
 ============
